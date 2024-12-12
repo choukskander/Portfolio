@@ -6,6 +6,8 @@ Ce site présente mes compétences, mes projets et mes expériences professionne
 
 N'hésitez pas à parcourir les différentes sections pour en savoir plus sur mon parcours et mes réalisations.
 
+[Accédez à mon profil en ligne ici.](https://choukskander.netlify.app/)
+
 ## Sections du site
 
 - **À propos** : Une brève introduction sur moi et ma passion pour le développement web.
